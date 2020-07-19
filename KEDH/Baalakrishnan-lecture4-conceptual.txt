@@ -1,0 +1,16 @@
+Exercise 4.1 – Conceptual questions
+❖ Answer the following questions:
+A) What is a Thesaurus?
+solution:-A Thesaurus is a resource:
+			➢ created for humans and is not a source of perfect information about word relations;
+			➢ in which words with similar meanings are grouped together. 
+B) Define WordNet’s Synset.
+Solution:-
+SynSet: Basic unit of WordNet:
+• A group of synonymous words which refer to a common semantic concept
+• Words may belong to more than one synset – first sense is the most frequent sense
+• Words also include collocations (“eye contact”, “mix up”).
+
+C) What is an Ontology?
+Solution:  An ontology defines a set of representational primitives with which to model a
+domain of knowledge or discourse. 
